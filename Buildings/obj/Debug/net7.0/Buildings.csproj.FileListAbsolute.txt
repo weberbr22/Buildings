@@ -1,0 +1,15 @@
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/bin/Debug/net7.0/Buildings
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/bin/Debug/net7.0/Buildings.deps.json
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/bin/Debug/net7.0/Buildings.runtimeconfig.json
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/bin/Debug/net7.0/Buildings.dll
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/bin/Debug/net7.0/Buildings.pdb
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.csproj.AssemblyReference.cache
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.AssemblyInfoInputs.cache
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.AssemblyInfo.cs
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.csproj.CoreCompileInputs.cache
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.dll
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/refint/Buildings.dll
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.pdb
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/Buildings.genruntimeconfig.cache
+/Users/rexwb/Academic/Computing/C#/Buildings/Buildings/obj/Debug/net7.0/ref/Buildings.dll
