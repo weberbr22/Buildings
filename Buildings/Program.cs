@@ -6,10 +6,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
     public class Building
     {
         protected int floorNum = 1;
-        protected float width = 0.0f;
-        protected float length = 0.0f;
+        protected double width = 0.0f;
+        protected double length = 0.0f;
 
-        public Building(int pNF, float pW, float pL)
+        public Building(int pNF, double pW, double pL)
         {
             this.floorNum = pNF;
             this.width = pW;
@@ -22,13 +22,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
             set { floorNum = value; }
         }
 
-        public float Width
+        public double Width
         {
             get { return width; }
             set { width = value; }
         }
 
-        public float Length
+        public double Length
         {
             get { return length; }
             set { length = value; }
@@ -41,9 +41,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
         public virtual void Display()
         {
-            Console.WriteLine("Floors" + this.floorNum + " m");
-            Console.WriteLine("Width" + this.width + " m");
-            Console.WriteLine("Length" + this.length + " m");
+            Console.WriteLine("There are " + this.floorNum + " floors");
+            Console.WriteLine("Width is " + this.width + " m");
+            Console.WriteLine("Length is " + this.length + " m");
         }
     }
 
@@ -76,7 +76,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
             Console.WriteLine("OOP");
-            Building s = new Building(5, 3, 3);
+            Building s = new Building(2, 8.4, 7.8);
             s.Display();
 
             Building[] street = new Building[10];
